@@ -1,4 +1,4 @@
-# Semantic Language Control -- wrapper for control environment API
+# Semantic Language Control — wrapper for control environment API
 
 # Features
 * GitHub Login
